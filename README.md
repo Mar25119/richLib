@@ -1,6 +1,6 @@
 # Проект: Системный отчёт с rich
 
-<img width="943" height="459" alt="image" src="https://github.com/user-attachments/assets/e4bca344-4b42-4f25-9305-7aee30b31bec" />
+<img width="895" height="499" alt="image" src="https://github.com/user-attachments/assets/c8cde7ea-e6c8-462a-a1bf-c0b178c92420" />
 
 
 ## 📌 Задача
