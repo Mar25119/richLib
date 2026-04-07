@@ -1,5 +1,8 @@
 # Проект: Системный отчёт с rich
 
+<img width="943" height="459" alt="image" src="https://github.com/user-attachments/assets/e4bca344-4b42-4f25-9305-7aee30b31bec" />
+
+
 ## 📌 Задача
 Создать CLI-утилиту, которая отображает системную информацию в виде:
 - цветной таблицы
